@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912535147775",
+    "project_id": "intervalproject-f9d47",
+    "storage_bucket": "intervalproject-f9d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912535147775:android:e7fa5c8804daeb11b9a8ca",
+        "android_client_info": {
+          "package_name": "com.example.interval_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912535147775-fqpti7kv1aobvdk88os2rpncklvtkeio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqxFqLIQSZnlEclMgBiwHQ2PBbbS3ma8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912535147775-fqpti7kv1aobvdk88os2rpncklvtkeio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
